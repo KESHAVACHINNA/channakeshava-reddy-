@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm channakeshava reddy</h1>
 <h3 align="center">Aspering data scientist</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=keshavachinna&label=Profile%20views&color=0e75b6&style=flat" alt="keshavachinna" /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=keshavachinna" alt="keshavachinna" /></a> </p>
 
 - 🔭 I’m currently working on **Learning new technologies and concepts.**
@@ -32,5 +30,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=keshavachinna&show_icons=true&locale=en&layout=compact" alt="keshavachinna" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=keshavachinna&show_icons=true&locale=en" alt="keshavachinna" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=keshavachinna&" alt="keshavachinna" /></p>
